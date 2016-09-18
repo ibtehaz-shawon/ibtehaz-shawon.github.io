@@ -1,10 +1,28 @@
+@import 'https://fonts.googleapis.com/css?family=Patua+One';
+@import 'https://fonts.googleapis.com/css?family=PT+Mono';
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
 .body_style{
 	font-size: 20px;
 }
 
 h3
 {
-	background: yellow;
+	background: #FFF0C4;
 	padding-top: 5px;
+	padding-left: 10px;
+	font-family: 'Patua One', cursive;
+	font-size:35px;
+
+}
+
+a
+{
+    font-family: 'PT Mono', monospace;
+}
+
+p
+{
+    font-family: 'Raleway', sans-serif;
 }
 
