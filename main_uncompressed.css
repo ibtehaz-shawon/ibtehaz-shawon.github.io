@@ -1,0 +1,33 @@
+@import 'https://fonts.googleapis.com/css?family=Patua+One';
+@import 'https://fonts.googleapis.com/css?family=PT+Mono';
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import 'https://fonts.googleapis.com/css?family=Pacifico';
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif');
+
+p {
+    color: #222222;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+i {
+    color: #222222;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+li {
+    color: #222222;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+h3 {
+    color: #222222;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+address {
+    color: #222222;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+
+
